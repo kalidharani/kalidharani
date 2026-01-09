@@ -51,35 +51,54 @@ My repositories demonstrate core machine learning algorithms implemented practic
 ### 🔵 Supervised Learning Projects
 
 **Logistic Regression**  
+Repository: `Logistic_Regression`  
 - Dataset: Titanic Dataset  
 - Predicts passenger survival using Logistic Regression  
 - Feature scaling and Streamlit deployment  
 
+---
+
 **Linear Regression**  
+Repository: `Linear_Regression`  
 - Dataset: Student Performance Dataset  
 - Predicts student scores  
 - Feature selection, scaling, and Streamlit app  
 
+---
+
 **Decision Tree**  
+Repository: `Decision_Tree`  
 - Dataset: Pet Adoption Dataset  
 - Decision Tree classification model  
 - Complete training-to-deployment pipeline  
 
+---
+
 **K-Nearest Neighbors (KNN)**  
+Repository: `Knn_Project`  
 - Dataset: Social Network Ads  
 - KNN classification with feature scaling  
 - Streamlit-based prediction interface  
 
+---
+
 **Naive Bayes**  
+Repository: `Naive_Bayes`  
 - Dataset: Titanic Dataset  
 - Gaussian Naive Bayes model  
 - Feature engineering and Streamlit deployment  
 
+---
+
 **Random Forest Classifier**  
+Repository: `RandomForest_Classifier`  
 - Classification using Random Forest algorithm  
 - Model training, evaluation, and deployment  
 
+---
+
 **Random Forest Regression**  
+Repository: `Random_forest_Regression`  
 - Dataset: Housing Price Dataset  
 - House price prediction using Random Forest Regressor  
 - Interactive Streamlit application  
@@ -89,16 +108,23 @@ My repositories demonstrate core machine learning algorithms implemented practic
 ### 🟢 Unsupervised Learning Projects
 
 **K-Means Clustering**  
+Repository: `Kmeans`  
 - Dataset: Mall Customers Dataset  
 - Customer segmentation using K-Means  
 - Scaled data and Streamlit visualization  
 
+---
+
 **Hierarchical Clustering**  
+Repository: `Hierarchical_clustering`  
 - Dataset: Netflix Titles Dataset  
 - Text clustering using TF-IDF  
 - Agglomerative clustering with Streamlit app  
 
+---
+
 **DBSCAN Clustering**  
+Repository: `DBScan`  
 - Dataset: Wine Clustering Dataset  
 - Density-based clustering using DBSCAN  
 - Feature scaling and Streamlit deployment  
